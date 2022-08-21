@@ -9,4 +9,4 @@ Java, Python3, C++
 
 ![MibSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MibSang&show_icons=true&theme=radical&count_private=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=secured8372)](https://solved.ac/secured8372/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=secured8372)](https://solved.ac/secured8372)
